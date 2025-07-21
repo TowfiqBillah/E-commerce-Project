@@ -1,8 +1,8 @@
-# 🛒 E-Commerce Automation with Playwright
+# E-Commerce Automation with Playwright
 
 End-to-end automation of an e-commerce website using Playwright (JavaScript).
 
-## ✅ Features
+## Features
 - Login Automation
 - Add Product to Cart
 - Cart Screenshot
@@ -10,7 +10,7 @@ End-to-end automation of an e-commerce website using Playwright (JavaScript).
 - Logout
 - Page Object Model (POM) Structure
 
-## 🔧 Setup
+## Setup
 ```bash
 npm install
 npx playwright install
